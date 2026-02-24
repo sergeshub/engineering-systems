@@ -12,3 +12,10 @@ and experiments related to:
 Most professional work has been conducted within private
 enterprise repositories; this space is used for public
 experimentation and technical exploration.
+
+
+## Notes
+
+- [Platform Modernization](docs/platform-modernization.md)
+- [Engineering Decision Frameworks](docs/engineering-decision-frameworks.md)
+
