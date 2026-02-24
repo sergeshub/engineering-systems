@@ -18,4 +18,5 @@ experimentation and technical exploration.
 
 - [Platform Modernization](docs/platform-modernization.md)
 - [Engineering Decision Frameworks](docs/engineering-decision-frameworks.md)
+- [AI-Assisted Engineering Systems](docs/ai-assisted-engineering.md)
 
